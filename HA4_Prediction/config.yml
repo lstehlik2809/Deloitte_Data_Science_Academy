@@ -1,0 +1,4 @@
+default:
+  ip: "10.94.253.9"
+  db: "AA18Q3_DSA_GDELT"
+  outdata: "."
